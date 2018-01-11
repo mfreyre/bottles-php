@@ -7,7 +7,7 @@
 
 2. Execute the tests
 
-        % phpunit.phar bottles_test.php
+        % ./phpunit.phar bottles_test.php
 
 [PHPUnit]: http://phpunit.de
 
