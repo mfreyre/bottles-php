@@ -5,9 +5,9 @@
         % wget --no-check-certificate https://phar.phpunit.de/phpunit.phar
         % chmod +x phpunit.phar
 
-2. Execute the tests for an assignment.
+2. Execute the tests
 
-        % phpunit.phar wordy/wordy_test.php
+        % phpunit.phar bottles_test.php
 
 [PHPUnit]: http://phpunit.de
 
